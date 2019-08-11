@@ -20,6 +20,7 @@ module.exports = {
     firstArticalId: 18053, //专栏第一篇文章的ID
     isdownloadVideo: false, // 是否下载音频
     isComment: false, // 是否导出评论
+    commentCount: 3, // 评论导出数量，最大20个
     cookie: 'cookie'
 };
 ```
