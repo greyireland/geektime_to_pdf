@@ -52,3 +52,6 @@ module.exports = {
 ```
 python merge.py /Users/hh/geek/geektime2pdf/algo combined.pdf
 ```
+
+## 效果
+[我的课程](https://github.com/greyireland/geek-courses)
